@@ -2,9 +2,11 @@
   max-width: unset;
   padding: 0;
 }
+
 .hero-container {
   background-color: black;
 }
+
 .hero {
   position: relative;
   min-height: 200px;
