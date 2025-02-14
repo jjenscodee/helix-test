@@ -25,3 +25,13 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+.cards-container {
+  background-color: pink !important;
+}
+
+.cards-container > .default-content-wrapper {
+  text-align: center;        
+    max-width: 1200px;        
+    margin-bottom: 40px;
+}
