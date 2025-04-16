@@ -1,2 +1,3 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/EDS-setup-test/Shared%20Documents
+  /: https://adobe.sharepoint.com/sites/eds-test/Shared%20Documents
+  
